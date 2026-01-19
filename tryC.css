@@ -1,0 +1,21 @@
+body {
+background-color: rgb(52, 52, 52);
+}
+.profpic{
+  margin-top: 50px;
+  margin-left: 900px;
+}
+.profpic{
+    width: 400px;
+    height: 550;
+    border: 100%;
+}
+
+.main_content{
+    width:500px;
+    height: 490px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
